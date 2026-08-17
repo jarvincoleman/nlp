@@ -1,0 +1,9 @@
+
+# Ignore local environment variables
+.venv
+
+# Ignore data
+.data
+/names
+/eng-fra.txt
+
