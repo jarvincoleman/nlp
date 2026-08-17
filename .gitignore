@@ -3,7 +3,6 @@
 .venv
 
 # Ignore data
-.data
-/names
-/eng-fra.txt
+data/
+
 
